@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saba127Si
+- 👋 Hi, I’m @Saba
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Vision Basics
+- 🌱 I’m currently learning web scraping
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
