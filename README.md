@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saba-Sabzevari
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning web scraping
+- 🌱 I’m currently learning machine learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
